@@ -1,0 +1,14 @@
+C:\Users\Girly S. Gallardo\Downloads\CHESS GAME (GALLARDO)\CHESS GAME (GALLARDO)\bin\Debug\CHESS GAME (GALLARDO).exe.config
+C:\Users\Girly S. Gallardo\Downloads\CHESS GAME (GALLARDO)\CHESS GAME (GALLARDO)\bin\Debug\CHESS GAME (GALLARDO).exe
+C:\Users\Girly S. Gallardo\Downloads\CHESS GAME (GALLARDO)\CHESS GAME (GALLARDO)\bin\Debug\CHESS GAME (GALLARDO).pdb
+C:\Users\Girly S. Gallardo\Downloads\CHESS GAME (GALLARDO)\CHESS GAME (GALLARDO)\obj\Debug\CHESS GAME (GALLARDO).csproj.AssemblyReference.cache
+C:\Users\Girly S. Gallardo\Downloads\CHESS GAME (GALLARDO)\CHESS GAME (GALLARDO)\obj\Debug\CHESS_GAME__GALLARDO_.Properties.Resources.resources
+C:\Users\Girly S. Gallardo\Downloads\CHESS GAME (GALLARDO)\CHESS GAME (GALLARDO)\obj\Debug\CHESS GAME (GALLARDO).csproj.GenerateResource.cache
+C:\Users\Girly S. Gallardo\Downloads\CHESS GAME (GALLARDO)\CHESS GAME (GALLARDO)\obj\Debug\CHESS GAME (GALLARDO).csproj.CoreCompileInputs.cache
+C:\Users\Girly S. Gallardo\Downloads\CHESS GAME (GALLARDO)\CHESS GAME (GALLARDO)\obj\Debug\CHESS GAME (GALLARDO).exe
+C:\Users\Girly S. Gallardo\Downloads\CHESS GAME (GALLARDO)\CHESS GAME (GALLARDO)\obj\Debug\CHESS GAME (GALLARDO).pdb
+C:\Users\Girly S. Gallardo\Downloads\CHESS GAME (GALLARDO)\CHESS GAME (GALLARDO)\obj\Debug\CHESS_GAME__GALLARDO_.ChessMain.resources
+C:\Users\Girly S. Gallardo\Downloads\CHESS GAME (GALLARDO)\CHESS GAME (GALLARDO)\obj\Debug\CHESS_GAME__GALLARDO_.Panels.ChessPlaying.resources
+C:\Users\Girly S. Gallardo\Downloads\CHESS GAME (GALLARDO)\CHESS GAME (GALLARDO)\obj\Debug\CHESS_GAME__GALLARDO_.Panels.AboutArea.resources
+C:\Users\Girly S. Gallardo\Downloads\CHESS GAME (GALLARDO)\CHESS GAME (GALLARDO)\obj\Debug\CHESS_GAME__GALLARDO_.Panels.NamingArea.resources
+C:\Users\Girly S. Gallardo\Downloads\CHESS GAME (GALLARDO)\CHESS GAME (GALLARDO)\obj\Debug\CHESS_GAME__GALLARDO_.Panels.WelcomeArea.resources
